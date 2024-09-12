@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working as a bioinformatics engineer
 - 🌱 I’m currently learning Go/Rust
+  
+[ArrowHeadRadio](https://bento.me/arrowheadradio) - a fan made podcast about the NFL team Kansas City Chiefs with my friends
 
 ![龙一's GitHub stats](https://github-readme-stats.vercel.app/api?username=linglilongyi&show_icons=true&theme=gotham)
 
